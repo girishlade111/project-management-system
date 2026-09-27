@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcalendar\u002Fevent\u002Fedit\u002F[id]","\u002Fprojects\u002Fedit\u002F[id]","\u002Fresources\u002Fedit\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
